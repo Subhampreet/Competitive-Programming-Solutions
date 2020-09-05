@@ -33,7 +33,7 @@ def LCM(num, N):
   
   
 # Function that will calculate 
-# the Hcf of Denominator 
+# the HCF of Denominator 
 def HCF(den, N): 
   
     ans = den[0];  
