@@ -1,5 +1,7 @@
 # DATA STRUCTURES - LINKED LIST  ✔
 
+[A Comprehensive Guide to Linked List](http://cslibrary.stanford.edu/103/LinkedListBasics.pdf)
+
 A linked list is a linear data structure, in which the elements are not stored at contiguous memory locations. In simple words, a linked list consists of nodes where each node contains a data field and a reference(link) to the next node in the list.
 
 ## Singly Linked List :
@@ -41,3 +43,14 @@ A linked list is represented by a pointer to the first node of the linked list. 
 Each node in a list consists of at least two parts:
 1) data
 2) Pointer (Or Reference) to the next node
+
+### Key Differences Between Array and Linked List 
+- An array is the data structure that contains a collection of similar type data elements whereas the Linked list is considered as non-primitive data structure contains a collection of unordered linked elements known as nodes. 
+- In the array the elements belong to indexes, i.e., if you want to get into the fourth element you have to write the variable name with its index or location within the square bracket while in a linked list though, you have to start from the head and work your way through until you get to the fourth element. 
+- Accessing an element in an array is fast, while Linked list takes linear time, so it is quite a bit slower. 
+- Operations like insertion and deletion in arrays consume a lot of time. On the other hand, the performance of these operations in Linked lists are fast. 
+- Arrays are of fixed size. In contrast, Linked lists are dynamic and flexible and can expand and contract its size. 
+- In an array, memory is assigned during compile time while in a Linked list it is allocated during execution or runtime. 
+- Elements are stored consecutively in arrays whereas it is stored randomly in Linked lists. 
+- The requirement of memory is less due to actual data being stored within the index in the array. As against, there is a need for more memory in Linked Lists due to storage of additional next and previous referencing elements. 
+- In addition memory utilization is inefficient in the array. Conversely, memory utilization is efficient in the linked list. 
