@@ -20,3 +20,7 @@ the data.
 
 An algorithm is an unambiguous specification of how to solve a class of problems. It is
 a set of rules that precisely define a sequence of operations.
+
+## Resources
+
+[500 Data Structures and Algorithms Problems](https://www.quora.com/q/techiedelight/500-Data-Structures-and-Algorithms-interview-questions-and-their-solutions)
