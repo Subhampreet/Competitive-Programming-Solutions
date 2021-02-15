@@ -117,4 +117,5 @@ Hence, we may conclude that the greedy approach picks an immediate optimized sol
 
 ## Resources
 
-[500 Data Structures and Algorithms Problems](https://www.quora.com/q/techiedelight/500-Data-Structures-and-Algorithms-interview-questions-and-their-solutions)
+- [500 Data Structures and Algorithms Problems](https://www.quora.com/q/techiedelight/500-Data-Structures-and-Algorithms-interview-questions-and-their-solutions)
+- [Books for Data Structure and Algorithms](https://drive.google.com/drive/folders/1bho74NtIOGIz-PesCL53vNoKNUMvQti7?usp=sharing)
