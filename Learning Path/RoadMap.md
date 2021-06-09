@@ -43,3 +43,9 @@
 - Suffix Array data structure.
 - Suffix Automaton data structure.
 11. Computational Geometry Algorithms.
+
+### Resources
+
+- [Codeforces Candidate Master RoadMap](https://whimsical.com/codeforces-candidate-master-roadmap-by-love-babbar-CiXPPD3CnwoXPr2d8Ajx1h)
+- [DSA Cracker Sheet](https://drive.google.com/file/d/1FMdN_OCfOI0iAeDlqswCiC2DZzD4nPsb/view)
+
