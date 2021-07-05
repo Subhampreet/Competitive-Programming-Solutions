@@ -1,1 +1,1 @@
-# Hacker Earth 🐱‍👤🌍
+# Hacker Earth🌍
