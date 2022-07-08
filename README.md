@@ -123,4 +123,5 @@ Hence, we may conclude that the greedy approach picks an immediate optimized sol
 - [1000+ Competitive Programming Problems with Video Solutions](https://docs.google.com/spreadsheets/u/2/d/130TNBp7kVemTJHxooPzgMpykdaVMtniU3kIFpntHxNc/htmlview#gid=84654839)
 - [The Ultimate Topic List(with Tutorials, Problems, and Templates)](https://shahjalalshohag.github.io/blog/topic-list/)
 - [Competitive Programming Curated Sheet](https://bit.ly/35CPH0d)   
+- [DSA Sheet by Nishant Chahar](https://docs.google.com/spreadsheets/d/16MyliPAOywm5H3Hmy_Utk6P5gwx4vvpb7i5iAqj1Aw4/edit#gid=0)
    
