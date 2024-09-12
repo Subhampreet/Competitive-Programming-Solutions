@@ -25,7 +25,7 @@ class Solution {
     }
 }
 
-// JavaScript Solution : 
+// JavaScript Solution : https://www.youtube.com/watch?v=hRt9qadriyQ
 
 // var containsDuplicate = function(nums) {
 //     const set = new Set(nums);
