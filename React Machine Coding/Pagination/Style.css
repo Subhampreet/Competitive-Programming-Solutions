@@ -1,0 +1,53 @@
+.App {
+    margin: 0px;
+    border: 0px;
+    font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+    font-weight: 500;
+  }
+  
+  .products {
+    margin: 20px;
+    padding: 0;
+    list-style-type: none;
+    display: grid;
+    gap: 20px;
+    grid-template-columns: 1fr 1fr 1fr;
+  }
+  
+  .products__single {
+    width: 300px;
+    padding: 20px;
+    text-align: center;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 14px;
+  }
+  
+  .prod__image {
+    width: 100%;
+    margin-bottom: 5px;
+    object-fit: cover;
+  }
+  
+  .pagination {
+    padding: 10px;
+    margin: 15px 0;
+    display: flex;
+    justify-content: center;
+  }
+  
+  .pagination span {
+    padding: 15px 20px;
+    border: 1px solid rgb(202, 200, 200);
+    cursor: pointer;
+  }
+  
+  .selected__page {
+    background-color: #036dd7;
+    color: #fff;
+    border: none;
+  }
+  
+  .pagination__disable {
+    display: none;
+  }
